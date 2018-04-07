@@ -44,7 +44,7 @@ average_rev = sum(revenue_change_list)/len(revenue_change_list)
 #The greatest increase in revenue (date and amount) over the entire period
 #The greatest decrease in revenue (date and amount) over the entire period
 
-# As an example, your analysis should look similar to the one below:
+
 
 # ```
 # Financial Analysis
